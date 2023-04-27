@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,g as o}from"./index-4017cb76.js";const n={},_={class:"introduction"},c=o("h1",null,"This is an 简介 page",-1),i=[c];function a(r,d){return s(),t("div",_,i)}const u=e(n,[["render",a]]);export{u as default};
