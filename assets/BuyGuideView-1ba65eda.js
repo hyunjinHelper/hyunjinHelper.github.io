@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as _,a as t}from"./index-67221620.js";const c={},o={class:"buyguide"},n=t("h1",null,"This is an 购买指南",-1),a=[n];function i(d,r){return s(),_("div",o,a)}const l=e(c,[["render",i]]);export{l as default};
